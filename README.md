@@ -55,7 +55,7 @@
 <br />
 <br />
 
-<img align="left" alt="Darshan Vadodariya Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarshanVadodariya-Debugger&show_icons=true&hide_border=true" />
+<img align="left" alt="Darshan Vadodariya Github Stats" src="https://github-readme-stats.vercel.app/api?username=akadarshan&show_icons=true&hide_border=true" />
 
 <br />
 <br />
