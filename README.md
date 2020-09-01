@@ -65,7 +65,7 @@
 [linkedin]: https://www.linkedin.com/in/darshanvadodariya/
 [whatsapp]: https://api.whatsapp.com/send?phone=9879354039&text=Hi&source=&data=&app_absent=
 [telegram]: https://t.me/darshanvadodariya
-[messenger]: https://m.me/Darshan.Vadodariya29
-[facebook]: https://fb.com/Darshan.Vadodariya29
+[messenger]: https://m.me/akadarshan
+[facebook]: https://fb.com/akadarshan
 [instagram]: https://www.instagram.com/darshan.vadodariya/
-[twitter]: https://twitter.com/hidarshan/
+[twitter]: https://twitter.com/akadarshan/
