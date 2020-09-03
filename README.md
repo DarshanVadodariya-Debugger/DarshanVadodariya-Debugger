@@ -1,4 +1,4 @@
-### Hi there, I'm Darshan Vadodariya 👋
+### Hi there, I'm Darshan Vadodariya aka Darshan 👋
   - B.Tech Computer Engineering. As a Student of Computer Engineering, My Field of Interest is Android and Web Design. I am Familiar with JAVA, Python, C++, C#, C, JavaScript and PHP. I Enjoy Coding and Learning new Techs and want to work with Professionals to Become a Skilled Web Developer.
 
 ### Experience!
